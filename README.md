@@ -1,4 +1,4 @@
-# Real-Time-Bidirectional-Digital-Twin
+# Real-Time-Bidirectional-Digital-Twin-for-Autonomous-UGV-Navigation-ROS-2-Co-Simulation-
 
 # Demo video:
 [digitaltwin+yolo+line follower.webm](https://github.com/user-attachments/assets/2ebc3c09-2e50-49ad-a06f-726dde345beb)
